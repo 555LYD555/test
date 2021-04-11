@@ -1,2 +1,2 @@
 # test
-软测jenkins
+hello Jenkins
